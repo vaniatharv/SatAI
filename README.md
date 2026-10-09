@@ -1,4 +1,4 @@
-# Satellite Image Change Detection System (LEVIR-CD Siamese U-Net)
+# SatAI - Satellite Image Change Detection System (LEVIR-CD Siamese U-Net)
 
 A modern, production-grade Earth Observation (EO) web application and deep learning inference platform for detecting temporal building changes in bitemporal satellite imagery.
 
